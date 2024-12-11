@@ -1,7 +1,7 @@
 # React + Vite
 
 
-# Zentry-clone from the public
+# Zentry-clone
 
 ### Screenshots
 
